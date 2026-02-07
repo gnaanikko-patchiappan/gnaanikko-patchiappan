@@ -16,12 +16,12 @@ My strength is connecting clinical questions with solid, defensible computationa
 - NLP and LLM applications in healthcare  
 
 **Datasets & Health Systems**
-- MIMIC-IV  
-- Mayo Clinic Platform  
-- Duke Health  
-- Mercy  
-- Vanderbilt University Medical Center (VUMC)  
+- MIMIC-IV   
 - Academic Medical Centers (AMC)
+    - Mayo Clinic Platform  
+    - Duke Health  
+    - Mercy  
+    - Vanderbilt University Medical Center (VUMC) 
 
 ## Technical Skills
 **Languages:** Python, SQL  
