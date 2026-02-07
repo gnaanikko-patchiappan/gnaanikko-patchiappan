@@ -10,8 +10,6 @@ My strength is connecting clinical questions with solid, defensible computationa
 
 ## Research & Interests
 - Real-world data and EHR-based outcomes research  
-- ICU and critical care analytics  
-- Early prediction of antibiotic resistance  
 - Multimodal models using structured EHR data and clinical notes  
 - NLP and LLM applications in healthcare  
 
