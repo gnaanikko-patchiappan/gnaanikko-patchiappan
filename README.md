@@ -4,7 +4,7 @@
 I work at the intersection of medicine, real-world clinical data, and machine learning, with a focus on turning messy EHR data into clinically meaningful insights.
 
 ## About Me
-I’m a medical doctor (MBBS) with training in Medical Science and Technology (M.Tech). I’ve worked across clinical care and research settings, and now focus on applied data science problems that sit close to real clinical workflows.
+I’m a medical doctor (MBBS) with training in Medical Science and Technology (MMST - IIT Kharagpur). I’ve worked across clinical care and research settings, and now focus on applied data science problems that sit close to real clinical workflows.
 
 My strength is connecting clinical questions with solid, defensible computational methods.
 
